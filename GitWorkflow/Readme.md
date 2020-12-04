@@ -20,7 +20,7 @@ The environment for the Git workflow and the CI/CD process consists of the follo
 * **Git Repository** (e.g., on GitHub or GitHub for Enterprises) to keep the [solution artifacts tracked in Git](GitWorkflow.md)
 * **Build Server** (e.g., [Jenkins](https://jenkins.io/)) to run the vctl commands of the CI/CD pipeline
 
-<img src="img/cicd_flow_di.png" alt="Development Workflow" width="900"/>
+![Development Workflow](img\cicd_flow_di.png)
 
 The end-to-end development workflow can be summarized as follows:
 
